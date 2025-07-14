@@ -2,7 +2,7 @@
 
 # преамп для электретного микрофона
 
-преамп на базе микросхемы NE5532 (за основу взят проект с канала "Hi DEV!")
+преамп на базе микросхемы NE5532 (за основу взят [проект](https://www.hi-dev.ru/projects/hi-dev-micro) с канала "Hi DEV!")
 
 ![готовый преамп](https://github.com/diy-electron1cs/mic-amp/blob/main/images/mic-amp-v-korpuse.jpg?raw=true)
 
